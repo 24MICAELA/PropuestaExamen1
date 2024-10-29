@@ -1,0 +1,10 @@
+# ninja log v6
+12	1067	7519332287019638	CMakeFiles/PropuestaExamen.dir/main.cpp.obj	78b8dc93fc602c3
+11	1186	7519332609865240	CMakeFiles/PropuestaExamen.dir/Pitagoricos/Funciones.cpp.obj	7b1f224597330fb5
+3	478	7519335818925585	build.ninja	5d294a1e7a60c158
+10	1156	7519285889929595	CMakeFiles/PropuestaExamen.dir/Pitagoricos/TriplesPitagoricos.cpp.obj	8c76c19655aae935
+1186	1356	7519332621615863	PropuestaExamen.exe	e9d0b77deb9fe683
+3	441	7519335818925585	build.ninja	5d294a1e7a60c158
+9	1007	7519335819592832	CMakeFiles/PropuestaExamen.dir/main.cpp.obj	78b8dc93fc602c3
+24	1141	7519335819749233	CMakeFiles/PropuestaExamen.dir/Pitagoricos/Triples.cpp.obj	c5afb2fe667cc24d
+1177	1395	7519335831275349	PropuestaExamen.exe	d7b3370c9f4420fe
